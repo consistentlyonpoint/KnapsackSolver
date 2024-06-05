@@ -1,0 +1,5 @@
+"circle", 5, 60
+"square", 3, 50
+"triangle", 4, 70
+"diamond", 2, 30
+"rhombus", 0, 80
